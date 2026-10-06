@@ -1,0 +1,19 @@
+ráctica GitHub + MarkDown
+Requisitos de finalización
+
+Crea y redacta el documento "GitHub.md", con GitHub, donde muestre las diferentes funciones de GitHub con los pasos a seguir y aquella información que consideres relevante.
+
+Debe contener al menos:
+
+    Título
+    Autor
+    Introducción (Qué es GitHub y usos, así como qué se va a ver en este informe)
+    Pasos a seguir para conseguir las diferentes acciones
+    Conclusiones
+    Bibliografía (si es necesario)
+
+
+Se premia la buena redacción
+
+Se penaliza mala ortografía
+
