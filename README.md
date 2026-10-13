@@ -18,6 +18,10 @@
 
 ## DIARIO 2
 
+## EJERCICIO 1
+- **[GitHub Introducción](./RaiundoPresentacion.pptx)**
+  - **Descripción:** Trabajo dedicado a la introducción a GitHub.
+    
 ## EJERCICIO 2
 
 # UNIDAD 3
